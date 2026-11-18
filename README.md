@@ -11,4 +11,9 @@ javac src/main/java/ConversaoWrapper.java
 java -cp src/main/java ConversaoWrapper
 ```
 
-Informe um número no console para visualizar a conversão de `int` para `Integer`.
+Escolhi o valor `42` como exemplo. Ao executar, informe esse número no console para visualizar a conversão de `int` para `Integer`:
+
+```text
+Digite um valor numérico: 42
+Valor convertido para wrapper: 42
+```
